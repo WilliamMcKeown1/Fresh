@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532290336492",
+    "project_id": "freshc-209f3",
+    "storage_bucket": "freshc-209f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532290336492:android:84afd066de2901b06457c9",
+        "android_client_info": {
+          "package_name": "com.fresch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDotzf0wcZ4bid5HUySJ4Rc9dL44aKabQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
